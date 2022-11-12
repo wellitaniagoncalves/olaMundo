@@ -1,0 +1,15 @@
+body {
+	background-color: #2c96239d ;
+	margin: 80px;
+	border: 60px;
+	border-color: blueviolet;
+	border-style: dotted;
+	padding: 10px;
+}
+h1 {
+	color: rgb(81, 64, 156);
+	text-align: center;
+}
+.experiencia {
+	text-align: right;
+}
